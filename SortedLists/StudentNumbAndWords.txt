@@ -1,0 +1,72 @@
+Student number: 1
+Words: menu, formula , data processing , web development, hardware , POP3 
+
+Student number: 2
+Words: folder , compatibility , hard drive , formatting , word processing program, operator 
+
+Student number: 3
+Words: database , password , worksheet, macro , electronic paper , technical support 
+
+Student number: 4
+Words: supercomputer , web site, domain name , ISP , router , pixel 
+
+Student number: 5
+Words: multipoint videoconference , software , digital certificate , Printer , window, web host
+
+Student number: 6
+Words: workstation, visibility , diting program , LAN , cell , videoconferencing
+
+Student number: 7
+Words: bandwidth , tablet , scroll wheel , table , electronic page , touchscreen 
+
+Student number: 8
+Words: desktop computer , font , sort , spell check , offset lithography , shortcut 
+
+Student number: 9
+Words: meta tag, webcam, configuration , keyboard , mainframe , www 
+
+Student number: 10
+Words: usability , WLAN, Power cycle , Processor , case , fan 
+
+Student number: 11
+Words: tint , Query , online , codec , laptop, comprehensive layout 
+
+Student number: 12
+Words: email address , , server , OS , contrast , echo-cancellation 
+
+Student number: 13
+Words: crop , data , code , desktop , drag, page layout 
+
+Student number: 14
+Words: peripheral , coding , exposure , CAT-5 cable , JPEG , format
+
+Student number: 15
+Words: encode , HTML , shopping cart , resize , desktop publishing , scanner 
+
+Student number: 16
+Words: hyperlink , dedicated system , layout , video bridge, URL , document
+
+Student number: 17
+Words: navigation, attachment , FAQs , web design, IP address , resolution 
+
+Student number: 18
+Words: input device , content , LCD , USB , username 
+
+Student number: 19
+Words: pointer , Power supply , maximize , icon , information security 
+
+Student number: 20
+Words: web browser, search engine , RAM , CSS , page view 
+
+Student number: 21
+Words: graphics , Internet , smartphone , webmail , network 
+
+Student number: 22
+Words: electrostatic Printing , e-commerce, DHCP , http , template 
+
+Student number: 23
+Words: quality assurance , document sharing , traffic , heat sink , expansion card 
+
+Student number: 24
+Words: spreadsheet , microphone, email client , database field , SMTP 
+
